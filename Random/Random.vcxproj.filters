@@ -18,5 +18,13 @@
     <ClCompile Include="test.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="random.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Random.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
